@@ -1,0 +1,173 @@
+{
+    "livre": "Genèse",
+    "auteur": "Moïse",
+    "chapitres": 50,
+    "resume": "La Genèse raconte la création du monde, l’histoire des patriarches (Abraham, Isaac, Jacob, Joseph) et l’alliance de Dieu avec son peuple.",
+    "questions": [
+        {
+            "question": "Qui a créé le ciel et la terre ?",
+            "choix": [
+                "1. L'homme",
+                "2. Satan",
+                "3. DIEU"
+            ],
+            "reponse": 3,
+            "reference": "Genèse 1:1",
+            "explication": "La Bible commence par déclarer que Dieu est le créateur de toutes choses."
+        },
+        {
+            "question": "Qui fut le premier homme créé ?",
+            "choix": [
+                "1. Moïse",
+                "2. Adam",
+                "3. Abraham"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 2:7",
+            "explication": "Dieu forma Adam de la poussière et souffla dans ses narines un souffle de vie."
+        },
+        {
+            "question": "Quelle femme a été créée à partir d'une côte ?",
+            "choix": [
+                "1. Sarah",
+                "2. Ève",
+                "3. Marie"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 2:22",
+            "explication": "Dieu créa Ève à partir d'une côte d'Adam pour être sa compagne."
+        },
+        {
+            "question": "Quel est le signe de l’alliance entre Dieu et Noé ?",
+            "choix": [
+                "1. L’arche",
+                "2. Le feu",
+                "3. L’arc-en-ciel"
+            ],
+            "reponse": 3,
+            "reference": "Genèse 9:13",
+            "explication": "Dieu mit un arc dans le ciel comme signe de l’alliance qu’il ne détruirait plus la terre par un déluge."
+        },
+        {
+            "question": "Qui est le père de la foi selon la Genèse ?",
+            "choix": [
+                "1. Isaac",
+                "2. Abraham",
+                "3. Moïse"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 15:6",
+            "explication": "Abraham crut en Dieu et cela lui fut imputé à justice."
+        },
+        {
+            "question": "Quel pays Abraham quitta-t-il sur l’ordre de Dieu ?",
+            "choix": [
+                "1. Canaan",
+                "2. Ur",
+                "3. Égypte"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 12:1",
+            "explication": "Dieu ordonna à Abraham de quitter Ur pour aller dans un pays qu’il lui montrerait."
+        },
+        {
+            "question": "Comment s’appelait le fils promis à Abraham et Sara ?",
+            "choix": [
+                "1. Ismaël",
+                "2. Jacob",
+                "3. Isaac"
+            ],
+            "reponse": 3,
+            "reference": "Genèse 21:3",
+            "explication": "Isaac fut l’enfant promis par Dieu à Abraham et Sara dans leur vieillesse."
+        },
+        {
+            "question": "Quel fut le péché de Sodome et Gomorrhe ?",
+            "choix": [
+                "1. L’idolâtrie",
+                "2. L’immoralité",
+                "3. Le mensonge"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 19",
+            "explication": "Sodome et Gomorrhe furent détruites pour leur grande immoralité."
+        },
+        {
+            "question": "Qui est le fils d’Abraham et d’Agar ?",
+            "choix": [
+                "1. Isaac",
+                "2. Ismaël",
+                "3. Ésaü"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 16:15",
+            "explication": "Ismaël est le fils qu’Abraham eut avec Agar, la servante de Sara."
+        },
+        {
+            "question": "Qui a trompé son père pour recevoir la bénédiction ?",
+            "choix": [
+                "1. Jacob",
+                "2. Joseph",
+                "3. Ésaü"
+            ],
+            "reponse": 1,
+            "reference": "Genèse 27",
+            "explication": "Jacob se déguisa pour recevoir la bénédiction d’Isaac destinée à Ésaü."
+        },
+        {
+            "question": "Quel fut le rêve de Jacob à Béthel ?",
+            "choix": [
+                "1. Une guerre",
+                "2. Des anges montant et descendant sur une échelle",
+                "3. Une ville en feu"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 28:12",
+            "explication": "Jacob vit une échelle reliant le ciel et la terre avec des anges la parcourant."
+        },
+        {
+            "question": "Combien de fils Jacob avait-il ?",
+            "choix": [
+                "1. 10",
+                "2. 12",
+                "3. 14"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 35:22-26",
+            "explication": "Jacob avait 12 fils, fondateurs des 12 tribus d’Israël."
+        },
+        {
+            "question": "Quel fils de Jacob fut vendu par ses frères ?",
+            "choix": [
+                "1. Joseph",
+                "2. Siméon",
+                "3. Benjamin"
+            ],
+            "reponse": 1,
+            "reference": "Genèse 37:28",
+            "explication": "Joseph fut vendu à des marchands madianites par ses frères jaloux."
+        },
+        {
+            "question": "Quel fut le don particulier de Joseph ?",
+            "choix": [
+                "1. La musique",
+                "2. L’interprétation des rêves",
+                "3. La force physique"
+            ],
+            "reponse": 2,
+            "reference": "Genèse 40:8",
+            "explication": "Joseph pouvait interpréter les rêves grâce à la sagesse divine."
+        },
+        {
+            "question": "Quel rôle Joseph joua-t-il en Égypte ?",
+            "choix": [
+                "1. Esclave",
+                "2. Chef de guerre",
+                "3. Gouverneur"
+            ],
+            "reponse": 3,
+            "reference": "Genèse 41:41",
+            "explication": "Pharaon établit Joseph gouverneur sur tout le pays pour gérer la famine."
+        }
+    ]
+}
