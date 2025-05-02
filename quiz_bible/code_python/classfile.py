@@ -217,7 +217,7 @@ class Question(Livres):
         return exit(1) 
      
         
-question = Question("genese.json", "/home/joel/Bureau/.projets_perso/quiz_bible/data")
+question = Question("genese.json", "/home/joel/Bureau/.projets_perso/GAME/quiz_bible/data")
 
 question.start()
 
