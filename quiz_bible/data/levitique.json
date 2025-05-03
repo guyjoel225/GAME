@@ -1,0 +1,173 @@
+{
+  "livre": "Lévitique",
+  "auteur": "Moïse",
+  "chapitres": 27,
+  "resume": "Le Lévitique contient les lois et les règlements donnés par Dieu à Israël concernant les sacrifices, la pureté, les fêtes, et la sainteté. Il s'adresse principalement aux prêtres lévites et au peuple pour maintenir une relation sainte avec Dieu.",
+  "questions": [
+    {
+      "question": "Quel est le thème central du Lévitique ?",
+      "choix": [
+        "1. La conquête de Canaan",
+        "2. La pureté et la sainteté",
+        "3. Les prophéties messianiques"
+      ],
+      "reponse": 2,
+      "reference": "Lévitique 19:2",
+      "explication": "Dieu appelle son peuple à être saint comme Lui est saint."
+    },
+    {
+      "question": "Qui étaient les seuls autorisés à offrir des sacrifices ?",
+      "choix": [
+        "1. Les prophètes",
+        "2. Les rois",
+        "3. Les prêtres lévites"
+      ],
+      "reponse": 3,
+      "reference": "Lévitique 1:5-8",
+      "explication": "Seuls les prêtres pouvaient offrir les sacrifices selon les prescriptions divines."
+    },
+    {
+      "question": "Quel jour était le plus saint de l’année pour Israël ?",
+      "choix": [
+        "1. Le sabbat",
+        "2. La fête des tentes",
+        "3. Le jour des expiations"
+      ],
+      "reponse": 3,
+      "reference": "Lévitique 16:29-30",
+      "explication": "Le Yom Kippour (jour des expiations) était le jour où les péchés étaient expiés."
+    },
+    {
+      "question": "Que symbolisait le sang dans les sacrifices ?",
+      "choix": [
+        "1. La vie",
+        "2. La bénédiction",
+        "3. La nourriture"
+      ],
+      "reponse": 1,
+      "reference": "Lévitique 17:11",
+      "explication": "Le sang représentait la vie et servait à faire l’expiation."
+    },
+    {
+      "question": "Qu’arriva-t-il à Nadab et Abihu ?",
+      "choix": [
+        "1. Ils devinrent rois",
+        "2. Ils furent bénis",
+        "3. Ils moururent pour avoir offert un feu étranger"
+      ],
+      "reponse": 3,
+      "reference": "Lévitique 10:1-2",
+      "explication": "Ils furent consumés par le feu de Dieu pour leur désobéissance."
+    },
+    {
+      "question": "Quel animal était interdit à la consommation ?",
+      "choix": [
+        "1. L’agneau",
+        "2. Le poisson avec écailles",
+        "3. Le porc"
+      ],
+      "reponse": 3,
+      "reference": "Lévitique 11:7",
+      "explication": "Le porc était déclaré impur et interdit à la consommation."
+    },
+    {
+      "question": "Combien de fêtes principales Israël devait-il observer ?",
+      "choix": [
+        "1. 3",
+        "2. 5",
+        "3. 7"
+      ],
+      "reponse": 3,
+      "reference": "Lévitique 23",
+      "explication": "Il y avait sept fêtes annuelles, incluant la Pâque, les Tabernacles, etc."
+    },
+    {
+      "question": "Quel principe était enseigné par les lois sur les champs ?",
+      "choix": [
+        "1. L’interdiction de cultiver",
+        "2. La justice envers les pauvres",
+        "3. La rotation des cultures"
+      ],
+      "reponse": 2,
+      "reference": "Lévitique 19:9-10",
+      "explication": "Les coins des champs devaient être laissés aux pauvres."
+    },
+    {
+      "question": "Quelle était la règle du jubilé ?",
+      "choix": [
+        "1. Chaque 50 ans, repos et restitution",
+        "2. Tous les 7 jours, fête",
+        "3. Tous les 3 ans, pèlerinage"
+      ],
+      "reponse": 1,
+      "reference": "Lévitique 25:10",
+      "explication": "Tous les 50 ans, les dettes étaient annulées et les terres restituées."
+    },
+    {
+      "question": "Que représentait le sacrifice d’actions de grâces ?",
+      "choix": [
+        "1. Le pardon",
+        "2. La reconnaissance",
+        "3. La purification"
+      ],
+      "reponse": 2,
+      "reference": "Lévitique 7:12",
+      "explication": "C’était une offrande volontaire de reconnaissance envers Dieu."
+    },
+    {
+      "question": "Qu’était le scapegoat (bouc émissaire) ?",
+      "choix": [
+        "1. Bouc pour l’holocauste",
+        "2. Bouc relâché symbolisant les péchés portés au loin",
+        "3. Bouc sacrificiel brûlé"
+      ],
+      "reponse": 2,
+      "reference": "Lévitique 16:10",
+      "explication": "Il portait symboliquement les péchés du peuple dans le désert."
+    },
+    {
+      "question": "Que représentait l’huile d’onction ?",
+      "choix": [
+        "1. La santé",
+        "2. La purification",
+        "3. La consécration"
+      ],
+      "reponse": 3,
+      "reference": "Lévitique 8:12",
+      "explication": "Elle était utilisée pour consacrer les prêtres et objets sacrés."
+    },
+    {
+      "question": "Quel châtiment était prescrit pour le blasphème ?",
+      "choix": [
+        "1. Exil",
+        "2. Lapidation",
+        "3. Jeûne forcé"
+      ],
+      "reponse": 2,
+      "reference": "Lévitique 24:16",
+      "explication": "Le blasphème contre le nom de Dieu entraînait la peine de mort par lapidation."
+    },
+    {
+      "question": "Que devait faire un lépreux déclaré pur ?",
+      "choix": [
+        "1. Retourner en ville",
+        "2. Offrir un sacrifice",
+        "3. Prendre un bain"
+      ],
+      "reponse": 2,
+      "reference": "Lévitique 14:19-20",
+      "explication": "Un sacrifice était exigé pour la purification et la réintégration."
+    },
+    {
+      "question": "Pourquoi les lois de pureté étaient-elles importantes ?",
+      "choix": [
+        "1. Pour se différencier des païens",
+        "2. Pour éviter les maladies",
+        "3. Pour éviter les conflits"
+      ],
+      "reponse": 1,
+      "reference": "Lévitique 20:26",
+      "explication": "Dieu voulait un peuple distinct, saint pour Lui."
+    }
+  ]
+}

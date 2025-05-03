@@ -4,6 +4,10 @@ import random
 import os
 from abc import ABC, abstractmethod
 
+path =  "/home/joel/Bureau/.projets_perso/GAME/quiz_bible/data"
+
+file = "levitique.json"
+
 
 class Prototype(ABC):
     
@@ -96,7 +100,6 @@ class Livres(Files):
             print(f"Resumé: {self.__resusme}")
             
             print()
-
 
 
 
@@ -217,8 +220,13 @@ class Question(Livres):
         return exit(1) 
      
         
-question = Question("genese.json", "/home/joel/Bureau/.projets_perso/GAME/quiz_bible/data")
-
+question = Question(file,path)
 question.start()
 
-question.stop()
+"""files = Files(file, path)
+
+data = files.loading()
+
+for id, key in enumerate(data):
+    
+    print(id,":",key)"""

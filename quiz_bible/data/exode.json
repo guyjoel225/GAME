@@ -1,0 +1,173 @@
+{
+  "livre": "Exode",
+  "auteur": "Moïse",
+  "chapitres": 40,
+  "resume": "Le livre de l’Exode raconte la libération des Israélites de l’esclavage en Égypte, leur traversée de la mer Rouge, la révélation de la Loi au mont Sinaï, et la construction du tabernacle où Dieu demeurera parmi eux.",
+  "questions": [
+    {
+      "question": "Quel pharaon oppressa les Israélites en Égypte ?",
+      "choix": [
+        "1. Ramsès",
+        "2. Pharaon inconnu",
+        "3. Nebucadnetsar"
+      ],
+      "reponse": 2,
+      "reference": "Exode 1:8",
+      "explication": "Le pharaon n'est pas nommé mais est connu pour avoir opprimé les Israélites."
+    },
+    {
+      "question": "Comment Moïse a-t-il été sauvé bébé ?",
+      "choix": [
+        "1. En fuyant dans le désert",
+        "2. Mis dans une corbeille sur le Nil",
+        "3. Caché dans une grotte"
+      ],
+      "reponse": 2,
+      "reference": "Exode 2:3",
+      "explication": "Sa mère le plaça dans une corbeille de jonc sur le Nil."
+    },
+    {
+      "question": "Où Dieu apparut-il à Moïse pour l’appeler ?",
+      "choix": [
+        "1. Dans une vision nocturne",
+        "2. Dans un buisson ardent",
+        "3. Par un ange"
+      ],
+      "reponse": 2,
+      "reference": "Exode 3:2",
+      "explication": "Dieu apparut dans un buisson qui brûlait sans se consumer."
+    },
+    {
+      "question": "Quel nom Dieu révéla-t-il à Moïse ?",
+      "choix": [
+        "1. Le Tout-Puissant",
+        "2. Je suis",
+        "3. L’Éternel"
+      ],
+      "reponse": 2,
+      "reference": "Exode 3:14",
+      "explication": "Dieu dit : « Je suis celui qui suis »."
+    },
+    {
+      "question": "Quel fut le premier fléau d'Égypte ?",
+      "choix": [
+        "1. Les grenouilles",
+        "2. L’eau changée en sang",
+        "3. Les ténèbres"
+      ],
+      "reponse": 2,
+      "reference": "Exode 7:20",
+      "explication": "Moïse transforma l’eau du Nil en sang."
+    },
+    {
+      "question": "Combien de fléaux Dieu envoya-t-il ?",
+      "choix": [
+        "1. 7",
+        "2. 10",
+        "3. 12"
+      ],
+      "reponse": 2,
+      "reference": "Exode 7-12",
+      "explication": "Il y eut dix fléaux, dont la mort des premiers-nés."
+    },
+    {
+      "question": "Quel événement est commémoré par la Pâque ?",
+      "choix": [
+        "1. La sortie d’Égypte",
+        "2. Le don de la Loi",
+        "3. La manne dans le désert"
+      ],
+      "reponse": 1,
+      "reference": "Exode 12",
+      "explication": "Elle commémore la libération et la protection du peuple."
+    },
+    {
+      "question": "Par où Israël traversa-t-il la mer ?",
+      "choix": [
+        "1. Mer Morte",
+        "2. Mer Rouge",
+        "3. Mer Méditerranée"
+      ],
+      "reponse": 2,
+      "reference": "Exode 14:21",
+      "explication": "Dieu ouvrit la mer Rouge pour qu'ils traversent à sec."
+    },
+    {
+      "question": "Quelle nourriture Dieu donna-t-il ?",
+      "choix": [
+        "1. Pain seulement",
+        "2. Cailles seulement",
+        "3. Manne et cailles"
+      ],
+      "reponse": 3,
+      "reference": "Exode 16:13-15",
+      "explication": "Dieu pourvut au peuple avec la manne et des cailles."
+    },
+    {
+      "question": "Comment Moïse fit-il jaillir de l’eau ?",
+      "choix": [
+        "1. En creusant un puits",
+        "2. En frappant un rocher",
+        "3. En priant"
+      ],
+      "reponse": 2,
+      "reference": "Exode 17:6",
+      "explication": "Dieu ordonna à Moïse de frapper un rocher."
+    },
+    {
+      "question": "Où Dieu donna-t-il les dix commandements ?",
+      "choix": [
+        "1. Mont Horeb",
+        "2. Mont Carmel",
+        "3. Mont Sinaï"
+      ],
+      "reponse": 3,
+      "reference": "Exode 19-20",
+      "explication": "Dieu donna la Loi sur le mont Sinaï."
+    },
+    {
+      "question": "Combien de jours Moïse resta-t-il sur la montagne ?",
+      "choix": [
+        "1. 30 jours",
+        "2. 40 jours",
+        "3. 7 jours"
+      ],
+      "reponse": 2,
+      "reference": "Exode 24:18",
+      "explication": "Il resta 40 jours et 40 nuits avec Dieu."
+    },
+    {
+      "question": "Que fit le peuple pendant l’absence de Moïse ?",
+      "choix": [
+        "1. Ils prièrent",
+        "2. Ils jeûnèrent",
+        "3. Ils firent un veau d’or"
+      ],
+      "reponse": 3,
+      "reference": "Exode 32:4",
+      "explication": "Ils se détournèrent de Dieu et adorèrent un veau d’or."
+    },
+    {
+      "question": "Que fit Moïse en voyant le veau d’or ?",
+      "choix": [
+        "1. Il le bénit",
+        "2. Il détruisit les tables",
+        "3. Il partit seul"
+      ],
+      "reponse": 2,
+      "reference": "Exode 32:19",
+      "explication": "Il jeta et brisa les tables de la Loi par colère."
+    },
+    {
+      "question": "Quel était le but du tabernacle ?",
+      "choix": [
+        "1. Stocker des trésors",
+        "2. Offrir des sacrifices",
+        "3. Demeure de Dieu avec son peuple"
+      ],
+      "reponse": 3,
+      "reference": "Exode 25:8",
+      "explication": "Dieu voulait habiter parmi eux dans le tabernacle."
+    }
+  ]
+}
